@@ -3,7 +3,9 @@
 VERSAO: 30
 
 ——————————————————
+
 UPDATE SSHPLUS MANAGER
+
 ——————————————————
 
 • NOVO BOT - AJUSTES
